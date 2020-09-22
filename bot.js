@@ -30,5 +30,5 @@ function retweet() {
         }
     })
 }
-console.log("made it")
+
 setInterval(retweet, 10000)
